@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I am a foodie and love trying new cuisines and recipes. I also enjoy cooking and dancing 🤗**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/smriti bhattrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smriti bhattrai" height="30" width="40" /></a>
 </p>
