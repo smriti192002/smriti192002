@@ -66,3 +66,14 @@ I’m deeply curious about the world of data — not just numbers, but **the sto
 - 🌐 **Portfolio**: [smritib954.wixsite.com/smriti-bhattrai](https://smritib954.wixsite.com/smriti-bhattrai)  
 - 💻 **GitHub**: [github.com/smriti192002](https://github.com/smriti192002)  
 
+---
+
+## ✨ Motto: 
+
+> **"Great data doesn't just answer questions — it sparks the next big idea."**  
+
+---
+
+🔹 **Thanks for stopping by! Let's turn data into action.**
+
+---
